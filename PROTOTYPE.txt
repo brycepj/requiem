@@ -1,0 +1,13 @@
+- Home route > Signup route > New family form > View/Edit Memorial
+- Home route > Login > View/Edit Memorial
+- View Memorial
+- View Memorial, make a comment
+
+
+ROUTES: 
+
+- Home
+- Signup
+- Login
+- New Family Form
+- Memorial Page

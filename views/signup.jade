@@ -1,0 +1,21 @@
+extends ./partials/layout
+
+block page-content
+  h1 hello signup
+
+  form
+    label(for="family-name") Family Name
+      input(name="family-name" type="text")
+    label(for="deceased-name") Full name of deceased
+      input(name="deceased-name" type="text")
+    label(for="admin-username") Admin Email
+      input(name="admin-username" type="email")
+    label(for="admin-password") Password
+      input(name="admin-password" type="password")
+    label(for="admin-confirm-password") Confirm Password
+      input(name="admin-confirm-password" type="password")
+    button(type="submit") Complete Signup
+  
+
+
+  a(href='/create') Create your memorial

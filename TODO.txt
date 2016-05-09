@@ -1,0 +1,6 @@
+- Plan app prototype
+- Set up server routes
+- Set up APIs/Controllers
+- Set up DB
+- Set up login/authentication
+- Set up front end
